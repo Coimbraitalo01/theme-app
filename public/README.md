@@ -1,4 +1,5 @@
 # 🌗 Theme App - Dark/Light Mode com React
+Preview: https://github.com/Coimbraitalo01/theme-app/blob/main/public/Preview.png
 
 Este projeto demonstra como implementar um sistema de tema claro/escuro (Dark Mode / Light Mode) utilizando:
 
